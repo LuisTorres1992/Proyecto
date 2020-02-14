@@ -29,10 +29,10 @@ export default function Courses() {
   return (
     <>
       <Helmet>
-        <title>Cursos | Agustín Navarro Galdon</title>
+        <title>Realidad Aumentada</title>
         <meta
           name="description"
-          content="Cursos | Web sobre programación de Agustín Navarro Galdon"
+          content="Realidad aumentada PUCESE"
           data-react-helmet="true"
         />
       </Helmet>
