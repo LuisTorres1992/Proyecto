@@ -40,7 +40,7 @@ export default function LayoutAdmin(props) {
             <LoadRoutes routes={routes} />
           </Content>
           <Footer className="layout-admin__footer">
-            Luis Torres Farías
+            Luis Torres
           </Footer>
         </Layout>
       </Layout>

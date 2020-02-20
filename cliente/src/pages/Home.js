@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Helmet>
-        <title>Luis Torres Farías</title>
+        <title>Proyecto GyA</title>
         <meta
           name="description"
           content="Home | Web sobre programación"
